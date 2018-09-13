@@ -100,3 +100,7 @@ Appimage Chinese version of the development document has also been completed tra
 - Gamux official QQ group 274328087
 - E-mail askme765cs@yahoo.com
 - Gitter https://gitter.im/Wine-QQ/Lobby
+
+## EugeneUse
+chmod a+x QQ-20171129-x86_64.AppImage 
+./QQ-20171129-x86_64.AppImage 
